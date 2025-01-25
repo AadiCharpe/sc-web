@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(42, 42, 42);
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+#ta {
+    resize: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    color: lightgray;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
